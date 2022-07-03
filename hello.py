@@ -1,4 +1,4 @@
 Hello
-exit=1
+exit=0
 // code comment
 by ray
